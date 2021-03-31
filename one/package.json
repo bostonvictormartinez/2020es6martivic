@@ -1,0 +1,19 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "ch1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martivic/2021nodeJSshowcase.git"
+  },
+  "author": "Victor Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martivic/2021nodeJSshowcase/issues"
+  },
+  "homepage": "https://github.com/martivic/2021nodeJSshowcase#readme"
+}
